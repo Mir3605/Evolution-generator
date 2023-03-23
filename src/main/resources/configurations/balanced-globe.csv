@@ -1,0 +1,17 @@
+OptionName, Value
+Plant energy ,10
+Plants daily ,10
+Energy to be full ,20
+Energy used to replicate ,15
+Min mutations ,0
+Max mutations ,1
+Genome length ,5
+Map width ,25
+Map height ,25
+Initial animal energy ,10
+Initial animal number ,35
+Initial plants number ,20
+TRUEIFRANDOMMUTATIONS,false
+TRUEIFLITTLECRAZYBEHAVIOUR,false
+TRUEIFGLOBEMAP,true
+TRUEIFTOXICBODIES,false
